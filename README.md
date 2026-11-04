@@ -15,8 +15,15 @@ Email: danceluck@163.com
 ORCID: 0009-0003-8233-7191
 
 ## Repository Structure
-## ├── dpm_metric.py # Regular black-hole metric, horizon, Kretschmann scalar, volume ├── dpm_echo.py # Gravitational-wave echo templates ├── dpm_pbh_spectrum.py # Primordial black-hole mass spectrum ├── dpm_benchmark.py # Matched-filter benchmark with LIGO/Virgo/KAGRA sensitivity ├── data/ # Example outputs (JSON/CSV) ├── requirements.txt # Python dependencies ├── LICENSE # MIT License └── README.md # This file
-## . ├── dpm_metric.py # Regular black-hole metric, horizon, Kretschmann scalar, volume ├── dpm_echo.py # Gravitational-wave echo templates ├── dpm_pbh_spectrum.py # Primordial black-hole mass spectrum ├── dpm_benchmark.py # Matched-filter benchmark with LIGO/Virgo/KAGRA sensitivity ├── data/ # Example outputs (JSON/CSV) ├── requirements.txt # Python dependencies ├── LICENSE # MIT License └── README.md # This file
+##├── dpm_metric.py # Regular black-hole metric, horizon, Kretschmann scalar, volume 
+##├── dpm_echo.py # Gravitational-wave echo templates 
+##├── dpm_pbh_spectrum.py # Primordial black-hole mass spectrum 
+##├── dpm_benchmark.py # Matched-filter benchmark with LIGO/Virgo/KAGRA sensitivity 
+##├── data/ # Example outputs (JSON/CSV) 
+##├── requirements.txt # Python dependencies 
+##├── LICENSE # MIT License 
+##└── README.md # This file
+
 
 Bash
 
@@ -78,7 +85,7 @@ data/dpm_benchmark_results.csv	Matched-filter SNR benchmarks
 Citation
 If you use this code, please cite:
 
-Li, X. The Mathematical Model of the Point: A Dynamical Spacetime Framework for Black-Hole Interiors (2025).
+Li, X. The Mathematical Model of the Point: A Dynamical Spacetime Framework for Black-Hole Interiors (2026).
 
 License
 This project is released under the MIT License. See LICENSE for details.
